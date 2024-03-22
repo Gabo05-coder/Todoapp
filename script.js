@@ -38,3 +38,4 @@ function showTask(){ //aca mostramos todo lo que se guardo o no se borro y decid
 
 }
 showTask(); //aca se inicializa la funcion showtask ^ 
+
